@@ -61,7 +61,7 @@ class CreateTasksTable extends Migration
     }
 }
 
-To run our migration, we will use the migrate Artisan command. If you are using Homestead, you should run this command from within your virtual machine, since your host machine will not have direct access to the database:
+To run our migration, we will use the migrate Artisan command. If you are using Homestead, you should run this command from within your virtual machine, since your host machine will not have direct access to the database: 
 
 php artisan migrate
 
