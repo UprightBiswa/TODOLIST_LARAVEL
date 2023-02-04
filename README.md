@@ -202,7 +202,7 @@ We'll skip over some of the Bootstrap CSS boilerplate and only focus on the thin
                 <div class="col-sm-offset-3 col-sm-6">
                     <button type="submit" class="btn btn-default">
                         <i class="fa fa-plus"></i> Add Task
-                    </button>
+                    </button> 
                 </div>
             </div>
         </form>
